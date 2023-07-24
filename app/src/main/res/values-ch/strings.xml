@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <string name="app_name">得到</string>
+    <string name="action_getAverage">获取平均值</string>
+    <string name="action_select_question">选择问题数量</string>
+    <string name="action_reset_result">休息保存的结果</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">下一个ا</string>
+    <string name="txt_true">正确的</string>
+    <string name="txt_false">错误的</string>
+    <string name="question1">地球是平的</string>
+    <string name="question2">水在100C时沸腾</string>
+    <string name="question3">鸽子会飞</string>
+    <string name="question4">地球绕着太阳转</string>
+    <string name="question5">章鱼有 4 颗心</string>
+    <string name="question6">古吉拉特邦是印度的一个邦</string>
+    <string name="question7">人体70%由水组成</string>
+    <string name="question8">亚马逊河是世界上最长的河流</string>
+
+    <string name="message_average">您的正确答案/问题总数=</string>
+    <string name="english">英语</string>
+    <string name="chinese">中国人</string>
+    <string name="invalidNumber">“请输入有效的号码。</string>
+    <string name="result">结果</string>
+    <string name="your_result">你收到了</string>
+    <string name="out_of">我的</string>
+    <string name="save">保存</string>
+    <string name="ignore">忽略</string>
+    <string name="enter_question">输入少于 8 个问题</string>
+
+    <string name="previous">以前的ا</string>
+    <string name="ok">美好的</string>
+    <string name="cancel">取消</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_question">The Earth is flat.</string>
+    <string name="add_question">输入下面的问题数。</string>
+    <string name="action_select_language">选择语言</string>
+</resources>
